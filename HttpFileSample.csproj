@@ -8,7 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="PQSoft.HttpFile" Version="1.0.0-alpha7" />
+    <PackageReference Include="PQSoft.HttpFile" Version="1.0.0-alpha9" />
   </ItemGroup>
 
 </Project>
